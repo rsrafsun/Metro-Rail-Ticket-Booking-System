@@ -1,0 +1,13 @@
+Marks: 20
+
+Suggested GUI library: Java Swing
+
+ 
+
+// Project Proposal - (deadline: 11/05/23)
+
+// Project Report - (deadline: 16/06/23)
+
+// Updated Links (GitHub repository & Project Demo) - (deadline: 16/06/23)
+
+ 
